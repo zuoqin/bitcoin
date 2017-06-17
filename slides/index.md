@@ -4,7 +4,7 @@
 - theme : night
 - transition : default
 
-### Наиболее ликвидные криптовалюты
+### Наиболее ликвидные криптовалюты 
 
 <img src="images/Currencies.png" style="background: black;" />
 
@@ -70,6 +70,9 @@
 
 
 ***
+
+
+#### Риски 
 
 ### Монеты Bitcoin
 
